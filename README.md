@@ -28,3 +28,6 @@ Then build jsfiles by—>  npm run build --js
 
   tools git:(master) —>  npm run localhost
 
+  # Front end tracing 
+  Front end tracing added at theme/tools/tracing
+
