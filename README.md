@@ -17,3 +17,14 @@ Check out our market for more free and pro templates and graphics: [Keenthemes M
 copyright 2021 Keenthemes. The code is released under the MIT license. There is only one limitation that you can not use the code as it is, modified or part of other item to re-distribute or resell as stock item. 
 
 Happy coding with Oswald HTML Free!
+
+# Steps to RUN
+
+https://preview.keenthemes.com/html/oswald-html-pro/docs/getting-started/build/webpack
+
+Add plugin by —>. yarn add @opentelemetry-api
+
+Then build jsfiles by—>  npm run build --js
+
+  tools git:(master) —>  npm run localhost
+
